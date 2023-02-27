@@ -1,6 +1,13 @@
 # Prerequisites
 *.d
 
+#else
+*.metadata
+*.classpath
+*.project
+*.class
+*.json
+*.prefs
 # Compiled Object files
 *.slo
 *.lo
